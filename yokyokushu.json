@@ -5,7 +5,12 @@
  "yomi": "ようきょくしゅう",
  "category": "能・狂言",
  "kind": "noh",
- "description": null,
+ "description": {
+  "kind": "謡曲集",
+  "era": "室町時代に成立した曲の集成",
+  "author": "世阿弥ほか",
+  "desc": "能の詞章（謡曲）二百番を集めたもの。"
+ },
  "editions": [
   {
    "pid": "1704240",
